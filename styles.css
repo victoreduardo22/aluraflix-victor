@@ -19,11 +19,11 @@ section {
     padding: 20px;
 }
 
-h1 {}
-
-P {
+h1 {
     font-size: 1.5rem;
     margin: 0 8px 0;
+}
+P {
     color:
         #ccc;
     margin: 0 0 12px 0;
@@ -32,3 +32,4 @@ P {
 iframe {
     max-width: 100%;
     display: block;
+}
